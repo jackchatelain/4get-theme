@@ -1,9 +1,10 @@
 /* ==UserStyle==
 @name           4get Theme
 @namespace      github.com/jackchatelain/4get-theme
-@version        1.0.0
+@version        1.0.1
 @description    Better UI for 4get search engine
-@author         Me
+@author         Jack Chatelain
+@updateURL      https://github.com/jackchatelain/4get-theme/raw/main/theme.user.css
 ==/UserStyle== */
 
 @-moz-document domain("4get.aishiteiru.moe"), domain("4get.neco.lol"), domain("4get.silly.computer"), domain("4get.ca"), domain("4get.plunked.party"), domain("4get.lunar.icu"), domain("4get.hbubli.cc"), domain("4getus.zzls.xyz"), domain("4get.zzls.xyz"), domain("4get.sijh.net"), domain("4get.kizuki.lol") {
