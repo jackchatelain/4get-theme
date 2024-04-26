@@ -1,9 +1,10 @@
 /* ==UserStyle==
 @name           4get Theme
 @namespace      github.com/jackchatelain/4get-theme
-@version        1.0.1
+@version        1.0.2
 @description    Better UI for 4get search engine
 @author         Jack Chatelain
+@license        MPL-2.0
 @updateURL      https://github.com/jackchatelain/4get-theme/raw/main/theme.user.css
 ==/UserStyle== */
 
@@ -35,7 +36,7 @@
         border-radius: 12px !important;
         border: none !important;
     }
-    label.spoiler-button {
+    label.spoiler-button, a.nextpage {
         border-radius: 12px !important;
     }
 }
