@@ -1,11 +1,11 @@
 /* ==UserStyle==
 @name           4get Theme
 @namespace      github.com/jackchatelain/4get-theme
-@version        1.0.2
+@version        1.0.4
 @description    Better UI for 4get search engine
 @author         Jack Chatelain
-@license        MPL-2.0
-@updateURL      https://github.com/jackchatelain/4get-theme/raw/main/theme.user.css
+@license        BSD-2-Clause
+@updateURL      https://github.com/jackchatelain/Userstyles/raw/main/4get.user.css
 ==/UserStyle== */
 
 @-moz-document domain("4get.aishiteiru.moe"), domain("4get.neco.lol"), domain("4get.silly.computer"), domain("4get.ca"), domain("4get.plunked.party"), domain("4get.lunar.icu"), domain("4get.hbubli.cc"), domain("4getus.zzls.xyz"), domain("4get.zzls.xyz"), domain("4get.sijh.net"), domain("4get.kizuki.lol") {
@@ -37,6 +37,9 @@
         border: none !important;
     }
     label.spoiler-button, a.nextpage {
+        border-radius: 12px !important;
+    }
+    img.openimg {
         border-radius: 12px !important;
     }
 }
